@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harsh2419
 - 👀 I’m interested in ...Software Development
-- 🌱 I’m currently learning ...Android Development using Kotlin
+- 🌱 I’m currently learning ...Web Development using MEAN Stack
 - 💞️ I’m persuing bachelors in engineering at  ... Indian Institute of Information Technology Bhopal 
 - 📫 How to reach me ...@work.harsh.21@gmail.com
 
